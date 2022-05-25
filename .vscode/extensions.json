@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "nucllear.vscode-extension-auto-import",
+    "anseki.vscode-color",
+    "ms-azuretools.vscode-docker",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "graphql.vscode-graphql",
+    "oderwat.indent-rainbow",
+    "ritwickdey.live-sass",
+    "ritwickdey.liveserver",
+    "yzhang.markdown-all-in-one",
+    "equinusocio.vsc-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "stringham.move-ts",
+    "esbenp.prettier-vscode",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "gruntfuggly.todo-tree",
+    "styled-components.vscode-styled-components",
+    "equinusocio.vsc-community-material-theme",
+    "bierner.markdown-preview-github-styles"
+  ]
+}
