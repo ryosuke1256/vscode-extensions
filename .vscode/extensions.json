@@ -23,6 +23,8 @@
     "gruntfuggly.todo-tree",
     "styled-components.vscode-styled-components",
     "equinusocio.vsc-community-material-theme",
-    "bierner.markdown-preview-github-styles"
+    "bierner.markdown-preview-github-styles",
+    "hediet.vscode-drawio",
+    "RomanPeshkov.vscode-text-tables"
   ]
 }
